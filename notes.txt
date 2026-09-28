@@ -1,4 +1,4 @@
 Devops lab
 git cheat sheet
-change using git commit -am
-change made in newbranch
+
+
