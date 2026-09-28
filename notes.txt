@@ -3,3 +3,4 @@ git cheat sheet
 change made in NEWBRANCH
 change in newbranch2
 staged changeamend demonstration
+change made in banana branch
